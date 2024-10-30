@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**dlagge/dlagge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on my 3d garden planner website and some projects for my employer
+🌱 I’m currently learning Angular
+⚡ Facts about me:
+    I'm a dog mom
+    I come from Valais/Switzerland
+    I'm addicted to chewing gums and candy
+    I'm passionate about music of all genres
+    I'm fascinated by the inexplicable
+    I'm a FX trader
+    I like to keep things tidy
 
-Here are some ideas to get you started:
+    and...
+    If I really want something, I can do it
+    
+    
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
