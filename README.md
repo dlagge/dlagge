@@ -8,7 +8,7 @@
 - I'm addicted to chewing gums and candy
 - I'm passionate about music of all genres
 - I'm fascinated by the inexplicable
-- I'm a FX trader
+- I'm a trader
 - I like to keep things tidy
 - and...  
 If I really want something, I can do it
