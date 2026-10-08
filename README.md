@@ -7,6 +7,7 @@
 - I come from Valais/Switzerland
 - I'm addicted to chewing gums and candy
 - I'm passionate about music of all genres
+- I'm currently learning to play the ukulele
 - I'm fascinated by the inexplicable
 - I'm a trader
 - I like to keep things tidy
